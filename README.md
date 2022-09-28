@@ -1,7 +1,7 @@
 ### Hola, soy Juan Diego👋
 
 
-<p align="center">Soy <strong>Estudiante de ingenieria de sistemas 💻</strong> de la Universidad EAN.<br />¡Contacto 👇!</p>
+<p align="center">Soy <strong>Estudiante de ingenieria de sistemas 💻</strong> de la Universidad EAN.<br />Redes sociales 👇</p>
 <p align="center">
  
    
@@ -9,7 +9,7 @@
   <a href="https://instagram.com/diego_hernandezz13" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
   </a>
-  <a href="https://facebook.com/Juan Diego Hernandez" target="blank">
+  <a href="https://facebook.com/juandiego.hernandez.3538039" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev" height="28px" width="28px" />
   </a>
   </p>
