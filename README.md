@@ -9,8 +9,8 @@
   <a href="https://instagram.com/diego_hernandezz13" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
   </a>
-  <a href="https://gmail.com/jdhernandezr55" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="midudev" height="28px" width="28px" />
+  <a href="https://facebook.com/Juan Diego Hernandez" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev" height="28px" width="28px" />
   </a>
   </p>
 
