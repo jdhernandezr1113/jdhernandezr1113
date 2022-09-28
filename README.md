@@ -1,4 +1,7 @@
-### Hola, soy Juan Diego👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://occidente.co/wp-content/uploads/2021/10/estudiar-ingenieria-sistemas.jpg" />
+   <h3 align="center">¡Hey 👋! Soy Juan Diego 👨🏻‍💻</h3>
+</p>
 
 
 <p align="center">Soy <strong>Estudiante de ingenieria de sistemas 💻</strong> de la Universidad EAN.<br />Redes sociales 👇</p>
