@@ -1,4 +1,6 @@
-### Hi, I'm Juan Diego 👋
+### Hola, soy Juan Diego👋
+Estudiante de ingenieria de sistemas 💻
+Universidad EAN
 
 <!--
 **jdhernandezr1113/jdhernandezr1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
