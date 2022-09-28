@@ -3,7 +3,7 @@
 
 -Universidad EAN
 
-## Puedes encontrarme en:
+### Puedes encontrarme en:
 
 
 
