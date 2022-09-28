@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Juan Diego 👋
 
 <!--
 **jdhernandezr1113/jdhernandezr1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
