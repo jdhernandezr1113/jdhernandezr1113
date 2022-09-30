@@ -10,10 +10,10 @@
    
    </a>
   <a href="https://instagram.com/diego_hernandezz13" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diego_hernandezz13" height="28px" width="28px" />
   </a>
   <a href="https://facebook.com/juandiego.hernandez.3538039" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juandiego.hernandez.3538039" height="28px" width="28px" />
   </a>
   </p>
 
